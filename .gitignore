@@ -1,0 +1,14 @@
+*.xnb
+*.exe
+bin
+Debug
+Content
+app.publish
+*.png
+*.PNG
+*.pbd
+*.deploy
+*.manifest
+*.application
+*.wav
+*.mp3
